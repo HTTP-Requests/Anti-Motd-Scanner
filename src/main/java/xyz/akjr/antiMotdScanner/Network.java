@@ -12,7 +12,6 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerLoginEvent;
-import org.bukkit.event.server.ServerListPingEvent;
 import java.io.*;
 import java.net.InetSocketAddress;
 import java.nio.file.Files;
